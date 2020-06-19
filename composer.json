@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "sigmaProducts\\": "src/sigmaProducts",
+      "sigmaProducts\\dataAdapters\\": "src/sigmaProducts/dataAdapters"
+    }
+  }
+}
