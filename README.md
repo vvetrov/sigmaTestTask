@@ -1,12 +1,13 @@
 # sigmaTestTask
 Solution of the test task from Sigma
 
-_Implemented solution of the task from "PHP Test Assessment.docx"_
+**Implemented solution of the task from** [Executive summary](./ExecutiveSummary.md)
 
 Here we have productCalcTerminal class as required in the task.
 
-
 Also tests using PHPUnit implemented.
+
+All implemented classes are documented by using PHPDoc (please take a look into the sources)
 
 To execute in local environment:
 
